@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vincekwarula-bot.github.io/invoicezero/sitemap.xml
