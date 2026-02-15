@@ -36,3 +36,29 @@ invoicezero@agentmail.to
 ## Blogger Targets
 <!-- Will populate via web search -->
 
+
+## Blogger Targets (To Research)
+
+### High-Priority Targets
+- [ ] FreshBooks blog (contact via form)
+- [ ] QuickBooks blog (contact via form)
+- [ ] Entrepreneur.com (pitch via contact form)
+- [ ] Forbes small business section
+- [ ] Inc.com freelancing section
+- [ ] The Freelancer's Union blog
+- [ ] Hubspot blog
+- [ ] Small Business Trends
+- [ ] Business.com
+
+### Medium-Priority (Smaller Blogs)
+- Research via Google: "best invoice generator [current year]"
+- Look for independent bloggers with contact emails
+- Target blogs with 10k-100k monthly visitors
+
+### Search Terms for Manual Research
+1. "best free invoice generator 2026"
+2. "invoice tools for freelancers review"
+3. "free invoice software comparison"
+4. "how to invoice clients"
+5. "invoice generator no signup"
+
